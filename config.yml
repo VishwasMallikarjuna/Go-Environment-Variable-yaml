@@ -1,1 +1,17 @@
+# Database configuration
+database:
+  host: localhost
+  port: 5432
+  username: myuser
+  password: mypassword
+  dbname: mydatabase
 
+# Server configuration
+server:
+  port: 8080
+  timeout: 30
+
+# API keys or secrets
+secrets:
+  api_key: myapikey123
+  secret_key: mysecretkey456
