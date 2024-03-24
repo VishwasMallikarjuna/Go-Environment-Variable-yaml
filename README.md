@@ -11,3 +11,5 @@ database:
   username: user
   password: password
   dbname: dbname
+````
+Make sure to replace the placeholder values in the config.yml with your actual configuration parameters. Also, ensure that you handle errors appropriately, such as when reading the file or unmarshaling YAML data.
